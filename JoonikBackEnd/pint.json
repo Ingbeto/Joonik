@@ -1,0 +1,4 @@
+{
+    "preset": "laravel",
+    "paths": ["app", "routes", "database", "tests"]
+}

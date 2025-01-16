@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ruleset name="Joonik">
+    <description>PHP CodeSniffer configuration for Joonik project</description>
+    <file>app/Http/Middleware/ApiKeyIsValid.php</file>
+    <rule ref="PSR12"/>
+</ruleset>
